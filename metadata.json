@@ -1,0 +1,6 @@
+{
+  "name": "Huxley Heating & Cooling",
+  "description": "Premium, modern website for Huxley Heating and Cooling Service, a trusted local HVAC contractor in Long Grove, IL serving Chicago suburbs with 24/7 furnace and AC services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
