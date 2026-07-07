@@ -1,12 +1,12 @@
 import { Service, Testimonial, FAQItem, GalleryItem } from './types';
 
 export const ASSETS = {
-  heroBanner: '/src/assets/images/huxley_hero_banner_1783459496230.jpg',
-  acUnit: '/src/assets/images/huxley_ac_unit_1783459507389.jpg',
-  furnace: '/src/assets/images/huxley_furnace_1783459519361.jpg',
-  homeInterior: '/src/assets/images/huxley_home_interior_1783459530446.jpg',
-  acBefore: '/src/assets/images/huxley_ac_before_1783459570545.jpg',
-  acAfter: '/src/assets/images/huxley_ac_after_1783459581283.jpg',
+  heroBanner: '/huxley_hero_banner_1783459496230.jpg',
+  acUnit: '/huxley_ac_unit_1783459507389.jpg',
+  furnace: '/huxley_furnace_1783459519361.jpg',
+  homeInterior: '/huxley_home_interior_1783459530446.jpg',
+  acBefore: '/huxley_ac_before_1783459570545.jpg',
+  acAfter: '/huxley_ac_after_1783459581283.jpg',
 };
 
 export const COMPANY_INFO = {
